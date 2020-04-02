@@ -1,0 +1,41 @@
+<div class="section speakers" id="trainers">
+    <h2 class="title">TRAINERS</h2>
+    <hr/>
+    <div class="items-container">
+        {% assign sorted = site.trainers | sort: "relevance"  %}
+        {% for trainer in sorted %}
+            <div class="item">
+                <a href="{{site.baseurl}}{{ trainer.url }}" class="item-head-link">
+                    <div class="img" style="background-image: url('{{site.baseurl}}/assets/images/speakers/{{ trainer.pic_url }}');">
+                        <i class="fa fa-plus-circle"></i>
+                    </div>
+                    <h4 class="item-name">
+                        {{ trainer.firstname }}
+                        <br/>
+                        {{trainer.lastname}}
+                    </h4>
+                </a>
+                <p class="item-position">{{ trainer.position }}</p>
+
+                <!-- filters by the first trainer -->
+                {% assign filtered_trainings = site.trainings | where: 'trainer',
+                      trainer.short_name %}
+                {% for training in filtered_trainings %}
+                    <a href="{{site.baseurl}}{{ training.url }}">
+                        <p class="item-training">Training:
+                            {{ training.title }}</p>
+                    </a>
+                {% endfor %}
+                <!-- filters by the second trainer -->
+                {% assign filtered_trainings = site.trainings | where: 'trainer-2',
+                      trainer.short_name %}
+                {% for training in filtered_trainings %}
+                    <a href="{{site.baseurl}}{{ training.url }}">
+                        <p class="item-training">Training:
+                            {{ training.title }}</p>
+                    </a>
+                {% endfor %}
+            </div>
+        {% endfor %}
+    </div>
+</div>
