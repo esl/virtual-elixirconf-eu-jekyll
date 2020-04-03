@@ -2,7 +2,7 @@ title: Elixir Conf EU
 description: > # this means to ignore newlines until "baseurl:"
   Elixir conf 2020
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.elixirconf.eu" # the base hostname & protocol for your site
+url: "https://virtual.elixirconf.eu" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
@@ -87,7 +87,6 @@ map-text: Hilton Warsaw Hotel and Convention Centre
 map-text-location: Grzybowska 63, 00-844 Warszawa, Poland
 map-lat: 52.2335221
 map-lng: 20.9836819
-
 
 
 
