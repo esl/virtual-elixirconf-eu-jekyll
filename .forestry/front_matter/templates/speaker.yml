@@ -37,5 +37,11 @@ fields:
     max: 
     step: 
   description: This field is used to display speakers in the top of the list
+- name: youtube
+  type: text
+  config:
+    required: false
+  label: youtube
+  description: youtube video url
 pages:
 - _speakers/bryan-hunt.md
