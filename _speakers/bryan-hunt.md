@@ -8,12 +8,11 @@ position: code monkey
 description: nobody
 github: bryanhuntesl
 twitter: binarytemple
+youtube: https://www.youtube.com/embed/qcFR-3JKXro
 
 ---
 # **This**
 
- is the speaker **bio**; blah he's bored people at various conferences; etc.
- 
-<b> foo </b>
+is the speaker **bio**; blah he's bored people at various conferences; etc.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qcFR-3JKXro" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<b> foo </b>
