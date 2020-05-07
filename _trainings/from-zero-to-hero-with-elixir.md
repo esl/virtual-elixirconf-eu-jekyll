@@ -6,11 +6,11 @@ trainer-name-2: Andrea Leopardi
 event_date: 28 April
 venue: Centrum Konferencyjne, Golden Floor Tower, ul. Chłodna 51, 00-867 Warszawa
 experience: Beginner, Intermediate
-from: 09.00
-to: 17.00
+from: "9.0"
+to: "17.0"
 type: training
----
 
+---
 Elixir can be a demanding programming language to learn. Developers who are coming from object-oriented languages have new concepts to learn, such as modelling programs in a functional way and working with processes and message passing.
 
 In this training day, new Elixir developers will get to lay a firm foundation, presenting all of the core concepts in Elixir.
