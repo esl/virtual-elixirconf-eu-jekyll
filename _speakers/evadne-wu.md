@@ -8,7 +8,8 @@ position: Won Spawnfest (2019) in multiple categories as part of The Bodgemaster
 twitter: evadne
 github: evadne
 type: speaker
----
+published: false
 
+---
 <p>Evadne is a software engineer and participates in open-source projects from time to time.
 </p>
