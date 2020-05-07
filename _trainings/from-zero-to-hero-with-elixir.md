@@ -9,6 +9,7 @@ experience: Beginner, Intermediate
 from: "9.0"
 to: "17.0"
 type: training
+published: false
 
 ---
 Elixir can be a demanding programming language to learn. Developers who are coming from object-oriented languages have new concepts to learn, such as modelling programs in a functional way and working with processes and message passing.
