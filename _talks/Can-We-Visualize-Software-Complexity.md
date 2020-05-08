@@ -3,6 +3,7 @@ speaker: rafal-studnicki
 speaker_name: Rafał Studnicki
 talk: Can we visualize software complexity?
 audience: Intermediate
+published: false
 
 ---
 <p>We all know that certain software design principles help with system maintenance. Assigning every module a single responsibility is one such principle. <br /> <br />
