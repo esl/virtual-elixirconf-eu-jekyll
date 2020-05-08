@@ -1,6 +1,6 @@
-title: Elixir Conf EU
+title: ElixirConf EU Virtual
 description: > # this means to ignore newlines until "baseurl:"
-  Elixir conf 2020
+  ElixirConf EU Virtual 2020
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://virtual.elixirconf.eu" # the base hostname & protocol for your site
 # Build settings
@@ -9,7 +9,7 @@ markdown: kramdown
 logo: "./assets/images/icon-large.png"
 
 social: 
-  name: ElixirConf EU
+  name: ElixirConf EU Virtual
   link: "https://twitter.com/elixirconfeu"
 
 # google_site_verification: googleXXXXXXXXXXXXXXXX.html
@@ -83,8 +83,8 @@ defaults:
 # Google Map JS api
 # This is my api for this template
 key-api: AIzaSyDbnxVZQannH0GF4gtnnBFPiP9ofm2WqGs
-map-text: Hilton Warsaw Hotel and Convention Centre
-map-text-location: Grzybowska 63, 00-844 Warszawa, Poland
+map-text: Online, from the comforts of your own home
+map-text-location: Anywhere in the world
 map-lat: 52.2335221
 map-lng: 20.9836819
 
