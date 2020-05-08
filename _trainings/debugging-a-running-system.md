@@ -9,6 +9,7 @@ experience: Beginner, Intermediate
 from: "9.0"
 to: "17.0"
 type: training
+published: false
 
 ---
 Start out with a buggy release and use tools to debug that running instance.
