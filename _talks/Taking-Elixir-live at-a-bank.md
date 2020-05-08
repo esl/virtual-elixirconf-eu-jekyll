@@ -3,6 +3,7 @@ speaker: thomas-orourke
 speaker_name: Thomas O'Rourke
 talk: Taking Elixir live at a bank
 audience: Intermediate
+published: false
 
 ---
 <p>
