@@ -9,6 +9,8 @@ sections:
   label: trainers
   create: documents
   match: "*.md"
+  templates:
+  - trainer
 - type: directory
   path: _data
   label: data
