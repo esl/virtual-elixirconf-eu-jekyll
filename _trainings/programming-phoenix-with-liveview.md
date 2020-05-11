@@ -11,15 +11,15 @@ published: true
 
 ---
 
- <p> OBJECTIVES:
-</p>
-<li>Code the whole LiveView lifecycle, from endpoint through end of life</li>
-<li>Write code in layers, the way experts do</li>
-<li>Build live views from scratch</li>
-<li>Generate live views using the generator templates</li>
-<li>Send events between client and server from links, forms, and more</li>
-<li>Send messages between processes using PubSub</li>
-<li>Debug LiveView problems and view message traffic</li>
+* OBJECTIVES:
+
+  * Code the whole LiveView lifecycle, from endpoint through end of life
+  * Write code in layers, the way experts do
+  * Build live views from scratch
+  * Generate live views using the generator templates
+  * Send events between client and server from links, forms, and more
+  * Send messages between processes using PubSub
+  * Debug LiveView problems and view message traffic
  
 You can follow along as we build this app using git.
 
