@@ -11,8 +11,8 @@ published: true
 
 ---
 
- OBJECTIVES:
-
+ <p> OBJECTIVES:
+</p>
 <li>Code the whole LiveView lifecycle, from endpoint through end of life</li>
 <li>Write code in layers, the way experts do</li>
 <li>Build live views from scratch</li>
