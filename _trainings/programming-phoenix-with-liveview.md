@@ -18,8 +18,9 @@ published: true
 <li>Send events between client and server from links, forms, and more</li>
 <li>Send messages between processes using PubSub</li>
 <li>Debug LiveView problems and view message traffic</li>
-<li>You can follow along as we build this app using git.</li>
-</ul>
+  </ul>
+You can follow along as we build this app using git.
+
 
 PREREQUISITES
 <ul>Please install the following:
