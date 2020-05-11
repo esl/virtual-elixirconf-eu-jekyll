@@ -1,6 +1,6 @@
 ---
-- from: 17 June
-  to: 3PM - 7PM CEST
+- from: 17 June, 3PM
+  to: 7PM CEST
   type: training
   training_1: Programming Phoenix with LiveView
   training_1_url: programming-phoenix-with-liveview
