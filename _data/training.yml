@@ -1,11 +1,11 @@
 ---
-- from: 9.00 AM day 1
-  to: 5.00 PM day 1
+- from: '17 June, '
+  to: 3 PM - 7PM CEST
   type: training
-  training_1: Debugging a running system
-  training_1_url: debugging-a-running-system
-  training_1_instructor: Ben Marx
-  training_1_instructor_2: Justin Schneck
+  training_1: Programming Phoenix with LiveView
+  training_1_url: programming-phoenix-with-liveview
+  training_1_instructor: Bruce Tate
+  training_1_instructor_2: ''
   training_2: ''
   training_2_url: ''
   training_2_instructor: ''
