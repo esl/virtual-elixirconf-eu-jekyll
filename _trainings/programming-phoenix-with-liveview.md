@@ -3,14 +3,14 @@ trainer: bruce-tate
 trainer-name: Bruce Tate
 event_date: 17 June
 venue: Online
-experience: Elixir user, as an “advanced beginner” or intermediate level. No Phoenix experience required.
+experience: Elixir user, as an “advanced beginner” or intermediate level. No Phoenix
+  experience required.
 from: 3.00 PM CEST
 to: 7.00 PM CEST
 type: training
-published: true
+pic_url: "/assets/images/Bruce_Tate.jpg"
 
 ---
-
 OBJECTIVES:
 
   * Code the whole LiveView lifecycle, from endpoint through end of life
@@ -31,5 +31,3 @@ Please install the following:
  * Postgresql
  * Elixir 1.8 or better
  * Phoenix 1.5 or better
-
-
