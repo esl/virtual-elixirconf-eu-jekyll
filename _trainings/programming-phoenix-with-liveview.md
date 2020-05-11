@@ -11,7 +11,7 @@ published: true
 
 ---
 
-* OBJECTIVES:
+OBJECTIVES:
 
   * Code the whole LiveView lifecycle, from endpoint through end of life
   * Write code in layers, the way experts do
@@ -24,7 +24,7 @@ published: true
 You can follow along as we build this app using git.
 
 
-* PREREQUISITES:
+PREREQUISITES:
 Please install the following:
  * git
  * an editor of your choice
