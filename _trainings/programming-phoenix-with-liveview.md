@@ -24,12 +24,12 @@ published: true
 You can follow along as we build this app using git.
 
 
-PREREQUISITES:
-<ul>Please install the following:
-<li>git</li>
-<li>an editor of your choice</li>
-<li>Postgresql</li>
-<li>Elixir 1.8 or better</li>
-<li>Phoenix 1.5 or better</li>
-</ul>
+* PREREQUISITES:
+Please install the following:
+ * git
+ * an editor of your choice
+ * Postgresql
+ * Elixir 1.8 or better
+ * Phoenix 1.5 or better
+
 
