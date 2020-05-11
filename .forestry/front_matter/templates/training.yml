@@ -38,3 +38,6 @@ fields:
   config:
     maxSize: 2
   label: pic_url
+- name: draft
+  type: boolean
+  label: draft
