@@ -10,7 +10,9 @@ type: training
 published: true
 
 ---
-<ul>OBJECTIVES:
+
+ OBJECTIVES:
+ <ul>
 <li>Code the whole LiveView lifecycle, from endpoint through end of life</li>
 <li>Write code in layers, the way experts do</li>
 <li>Build live views from scratch</li>
@@ -22,7 +24,7 @@ published: true
 You can follow along as we build this app using git.
 
 
-PREREQUISITES
+PREREQUISITES:
 <ul>Please install the following:
 <li>git</li>
 <li>an editor of your choice</li>
