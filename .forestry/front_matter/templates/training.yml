@@ -33,3 +33,8 @@ fields:
 - type: text
   name: type
   label: type
+- name: pic_url
+  type: file
+  config:
+    maxSize: 2
+  label: pic_url
