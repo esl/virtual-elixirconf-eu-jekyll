@@ -1,7 +1,7 @@
 ---
 relevance: 5
 short_name: mikael-muszynski
-pic_url: ''
+pic_url: "/assets/images/Muszynski.jpg"
 firstname: Mikael
 lastname: Muszynski
 position: Elixir consultant, Tea enthusiast
