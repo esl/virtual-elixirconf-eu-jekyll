@@ -10,7 +10,7 @@ from: 10:00 CEST, 15 June
 to: 18:00 CEST, 17 June
 type: training
 pic_url: ''
-published: false
+draft: false
 
 ---
 Elixir Bootcamp is a three-day introductory course introducing the key concepts in Elixir. Students will start by learning the basics of the Elixir language. They include its functional heritage, concurrency and error handling. The course provides most prerequisites to attend the OTP course and a range of follow up courses which can be used to guide developers through advanced topics focusing on BEAM specific architectures and operations. Together, they are great for those that need to be introduced to Elixir and use it in commercial projects.
