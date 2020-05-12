@@ -1,8 +1,8 @@
 ---
-- name: Call for Talks
-  link: cft
 - name: Home
   link: cover
+- name: Call for Talks
+  link: cft
 - name: Welcome
   link: welcome
 - name: Speakers
