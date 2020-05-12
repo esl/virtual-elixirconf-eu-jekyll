@@ -1,18 +1,21 @@
+---
+- name: Call for Talks
+  link: cft
 - name: Home
-  link: "cover"
+  link: cover
 - name: Welcome
-  link: "welcome"
+  link: welcome
 - name: Speakers
-  link: "speakers"
+  link: speakers
 - name: Trainers
-  link: "trainers"
+  link: trainers
 - name: Register
-  link: "register"
+  link: register
 - name: Training
-  link: "training"
+  link: training
 - name: Diversity
-  link: "diversity"
+  link: diversity
 - name: Sponsors
-  link: "sponsors"
+  link: sponsors
 - name: Contact
-  link: "contact"
+  link: contact
