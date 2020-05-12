@@ -6,9 +6,10 @@ webhook_url:
 sections:
 - type: directory
   path: _sass
-  label: sass
+  label: _sass
   create: all
-  match: "**/*"
+  match: "*"
+  new_doc_ext: ".sass"
 - type: directory
   path: _trainers
   label: trainers
