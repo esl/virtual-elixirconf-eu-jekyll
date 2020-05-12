@@ -1,5 +1,5 @@
 ---
-relevance: 5
+relevance: 4
 short_name: mikael-muszynski
 pic_url: "/assets/images/Muszynski.jpg"
 firstname: Mikael
