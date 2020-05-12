@@ -4,7 +4,8 @@ trainer: mikael-muszynski
 event_date: 15 - 17 June
 venue: Online
 summary: ''
-description: ''
+description: Elixir Programming for Beginners is a three-day introductory course introducing
+  the key concepts in Elixir.
 experience: Beginner
 from: 10:00 CEST, 15 June
 to: 18:00 CEST, 17 June
