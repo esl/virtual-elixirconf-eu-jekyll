@@ -9,7 +9,7 @@ sections:
   label: _sass
   create: documents
   match: "**/*.sass"
-  new_doc_ext: ".sass"
+  new_doc_ext: sass
 - type: directory
   path: _trainers
   label: trainers
