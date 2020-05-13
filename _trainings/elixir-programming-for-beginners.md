@@ -1,5 +1,6 @@
 ---
 trainer: mikael-muszynski
+trainer-name: Michael Muszyński
 event_date: 15 - 17 June
 venue: Online
 summary: ''
