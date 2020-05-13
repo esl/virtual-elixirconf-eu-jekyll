@@ -1,7 +1,7 @@
 ---
 trainer: mikael-muszynski
 trainer-name: Michael Muszyński
-event_date: 15 - 17 June
+event_date: 15 - 17 June, 9AM-6PM
 venue: Online
 summary: ''
 description: Elixir Programming for Beginners is a three-day introductory course introducing
