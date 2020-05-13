@@ -1,4 +1,14 @@
 ---
+- from: 15 June - 17 June, 9am
+  to: 6pm
+  type: training
+  training_1: Elixir Programming for Beginners
+  training_1_url: elixir-programming-for-beginners
+  training_1_instructor: Mikael Muszyński
+  training_1_instructor_2: ''
+  training_2: ''
+  training_2_url: ''
+  training_2_instructor: ''
 - from: 17 June, 3PM
   to: 7PM CEST
   type: training
