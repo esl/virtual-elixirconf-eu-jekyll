@@ -1,7 +1,7 @@
 ---
 trainer: bruce-tate
 trainer-name: Bruce Tate
-event_date: 17 June
+event_date: 17 June, 3:00-7:00PM CEST 
 venue: Online
 experience: Elixir user, as an “advanced beginner” or intermediate level. No Phoenix
   experience required.
@@ -20,7 +20,7 @@ OBJECTIVES:
   * Send events between client and server from links, forms, and more
   * Send messages between processes using PubSub
   * Debug LiveView problems and view message traffic
- 
+
 You can follow along as we build this app using git.
 
 
