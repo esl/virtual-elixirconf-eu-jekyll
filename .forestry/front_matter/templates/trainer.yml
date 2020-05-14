@@ -30,4 +30,5 @@ fields:
   name: twitter
   label: twitter
 pages:
+- _trainers/manuel-rubio.md
 - _trainers/mikael-muszynski.md
