@@ -1,4 +1,14 @@
 ---
+- from: 8 June, 9AM Argentina time
+  to: 10 June, 5PM Argentina time
+  type: ''
+  training_1: Elixir para Principiantes
+  training_1_url: elixir-para-principiantes
+  training_1_instructor: Manuel Rubio
+  training_1_instructor_2: ''
+  training_2: ''
+  training_2_url: ''
+  training_2_instructor: ''
 - from: 15 June - 17 June, 9AM
   to: 6PM CEST
   type: training
