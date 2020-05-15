@@ -41,3 +41,5 @@ fields:
 - name: draft
   type: boolean
   label: draft
+pages:
+- _trainings/elixir-espanol.md
