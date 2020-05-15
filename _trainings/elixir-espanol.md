@@ -8,7 +8,7 @@ description: Los estudiantes comenzarán aprendiendo los puntos básicos del len
   Elixir. Incluye su herencia funcional, concurrencia y manejo de errores.
 experience: Principiante/ Beginner
 from: June 8, 9:00 Argentina time
-to: ''
+to: June 10, 17:00 Argentina time
 type: ''
 pic_url: ''
 draft: false
