@@ -38,6 +38,8 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
+  templates:
+  - example
 - type: directory
   path: _trainings
   label: Trainings
