@@ -4,7 +4,7 @@ short_name: manuel-rubio
 pic_url: ''
 firstname: Manuel
 lastname: Rubio
-position: Developer
+position: Polyglot Developer, Manager And Coach
 training: Programación en Elixir para Principiantes
 github: manuel-rubio
 twitter: MRonErlang
