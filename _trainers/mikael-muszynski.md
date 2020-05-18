@@ -10,4 +10,4 @@ github: linduxed
 twitter: linduxed
 
 ---
-**_Mikael_** came from Ruby, grew interested in functional programming, tinkered with Haskell, eventually found Elixir and is now a passionate Elixir Alchemist at ESL.
+Mikael came from Ruby, grew interested in functional programming, tinkered with Haskell, eventually found Elixir and is now a passionate Elixir Alchemist at ESL.
