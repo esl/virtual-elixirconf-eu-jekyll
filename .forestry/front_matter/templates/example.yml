@@ -1,4 +1,24 @@
 ---
 label: example
 hide_body: false
-fields: []
+fields:
+- name: slug
+  type: text
+  config:
+    required: false
+  label: slug
+  description: this is a reader friendly name for something
+- name: event-date
+  type: datetime
+  label: event-date
+  description: the date of the event
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: pic
+  type: file
+  config:
+    maxSize: 64
+  label: pic
