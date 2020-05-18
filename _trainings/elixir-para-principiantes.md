@@ -1,6 +1,7 @@
 ---
 speaker: ''
-trainer: Manuel Rubio
+trainer: manuel-rubio
+trainer-name: Manuel Rubio
 event_date: June 8-10, 9-17:00 (ART time)
 venue: Online
 summary: Our very own Elixir Training for Beginners, but in Spanish!
