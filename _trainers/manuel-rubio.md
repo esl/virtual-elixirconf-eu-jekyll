@@ -1,7 +1,7 @@
 ---
 relevance: 6
 short_name: manuel-rubio
-pic_url: ''
+pic_url: "/assets/images/manuel_rubio-1.jpg"
 firstname: Manuel
 lastname: Rubio
 position: Polyglot Developer, Manager And Coach
