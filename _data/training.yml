@@ -1,4 +1,14 @@
 ---
+- from: 17 June, 10AM CEST
+  to: 17 June, 2PM CEST
+  type: ''
+  training_1: Distributed Live Tracing
+  training_1_url: distributed-live-tracing
+  training_1_instructor: Gabor Olah
+  training_1_instructor_2: gabor-olah
+  training_2: ''
+  training_2_url: ''
+  training_2_instructor: ''
 - from: 8 June - 10 June, 9AM
   to: 5PM ART
   type: ''
