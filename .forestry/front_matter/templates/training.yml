@@ -41,6 +41,11 @@ fields:
 - name: draft
   type: boolean
   label: draft
+- name: trainer-name
+  type: text
+  config:
+    required: false
+  label: trainer-name
 pages:
 - _trainings/elixir-with-kubernetes.md
 - _trainings/sfdfgdfdgfgd.yml.md
