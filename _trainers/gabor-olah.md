@@ -1,5 +1,5 @@
 ---
-relevance: 
+relevance: 3
 short_name: gabor-olah
 pic_url: ''
 firstname: Gabor
@@ -8,7 +8,6 @@ position: Software Engineer
 training: Distributed Live Tracing
 github: olikasg
 twitter: ''
-published: false
 
 ---
 Gabor was introduced to Erlang during his university studies by participating in the RefactorErl group. He was interested in language design and a lot of academic problems, so this project was an excellent opportunity to get into type systems and other projects. From there, he joined Ericsson Hungary in 2011 to work on telephony switches (mostly on the famous one mentioned in Joe’s book). This taught Gabor to enjoy the complexity of this application.
