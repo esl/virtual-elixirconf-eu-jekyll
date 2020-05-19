@@ -1,6 +1,6 @@
 ---
 relevance: 3
-short_name: Bryan Hunt
+short_name: bryan-hunt
 pic_url: ''
 firstname: Bryan
 lastname: Hunt
