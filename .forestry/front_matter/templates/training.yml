@@ -47,5 +47,6 @@ fields:
   type: boolean
   label: draft
 pages:
+- _trainings/distributed-live-tracing.md
 - _trainings/elixir-with-kubernetes.md
 - _trainings/sfdfgdfdgfgd.yml.md
