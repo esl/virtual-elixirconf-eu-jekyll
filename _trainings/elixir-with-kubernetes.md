@@ -11,7 +11,6 @@ from: June 17, 10AM Central European time
 to: June 17, 2PM Central European time
 type: ''
 pic_url: ''
-published: false
 
 ---
 Deploying, running, operating and debugging Elixir and Erlang applications on Kubernetes doesn’t have to be a big deal once you know a couple of basic tricks and patterns. In this one-day tutorial, you will learn to build, deploy, scale and cluster Elixir applications on Kubernetes.
