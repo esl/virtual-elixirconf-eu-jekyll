@@ -13,7 +13,6 @@ type: ''
 pic_url: ''
 trainer-name: Gabor Olah
 draft: false
-published: false
 
 ---
 **Expertise:** Intermediate
