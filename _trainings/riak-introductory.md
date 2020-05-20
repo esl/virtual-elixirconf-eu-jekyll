@@ -1,16 +1,17 @@
 ---
 speaker: ''
-trainer: ''
-trainer-name: ''
+trainer: Nicholas Adams
+trainer-name: nicholas-adams
 event_date: June 15-16, 9-13:00 CEST (Europe)
 venue: Online
 summary: In this introductory course, we’ll introduce you to basic Riak concepts.
 description: ''
 experience: ''
-from: June 15, 9:00 CEST
-to: June 16, 13:00 CEST
+from: June 15, 13:00 CEST
+to: June 16, 17:00 CEST
 type: ''
 pic_url: ''
+draft: false
 published: false
 
 ---
@@ -22,7 +23,7 @@ When resilience, scalability and reliability come to the forefront, few solution
 
 **COURSE DURATION**
 
-* 2 half-days (4 hours per day)
+* 2 afternoons (4 hours per day), CEST/ Europe
 
 **TARGET AUDIENCE**
 
