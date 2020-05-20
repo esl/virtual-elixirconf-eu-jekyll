@@ -1,4 +1,14 @@
 ---
+- from: 15 June, 13:00 CEST
+  to: 16 June, 17:00 CEST
+  type: ''
+  training_1: Riak Introductory Training
+  training_1_url: riak-introductory
+  training_1_instructor: ''
+  training_1_instructor_2: ''
+  training_2: ''
+  training_2_url: ''
+  training_2_instructor: ''
 - from: 17 June, 10AM CEST
   to: 17 June, 6PM CEST
   type: ''
