@@ -8,10 +8,11 @@ summary: In this tutorial, participants will explore the basics of distributed p
   on the BEAM, led by Derek Kraan.
 description: ''
 experience: Intermediate
-from: ''
-to: ''
+from: June 17, 9AM CEST (Europe)
+to: June 17, 6PM CEST (Europe)
 type: ''
 pic_url: ''
+draft: false
 published: false
 
 ---
