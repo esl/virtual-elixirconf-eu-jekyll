@@ -1,7 +1,7 @@
 ---
 relevance: 3
 short_name: bryan-hunt
-pic_url: ''
+pic_url: "/assets/images/bryan-hunt.jpg"
 firstname: Bryan
 lastname: Hunt
 position: Solutions Architect
