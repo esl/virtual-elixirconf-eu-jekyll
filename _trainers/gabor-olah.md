@@ -1,7 +1,7 @@
 ---
 relevance: 3
 short_name: gabor-olah
-pic_url: "/assets/images/gabor-olah.jpg"
+pic_url: "gabor-olah.jpg"
 firstname: Gabor
 lastname: Olah
 position: Software Engineer
