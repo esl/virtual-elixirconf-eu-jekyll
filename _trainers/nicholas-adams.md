@@ -1,7 +1,7 @@
 ---
 relevance: 6
 short_name: nicholas-adams
-pic_url: "/assets/images/nadams-1.png"
+pic_url: "nadams-1.png"
 firstname: Nicholas
 lastname: Adams
 position: Director of Global Support Operations at T.I Tokyo
