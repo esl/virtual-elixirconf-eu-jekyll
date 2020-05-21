@@ -1,4 +1,14 @@
 ---
+- from: 17 June, 9AM CEST
+  to: 17 June, 6PM CEST
+  type: ''
+  training_1: Distributed Programming with Elixir
+  training_1_url: distributed-programming
+  training_1_instructor: Derek Kraan
+  training_1_instructor_2: ''
+  training_2: ''
+  training_2_url: ''
+  training_2_instructor: ''
 - from: 15 June, 13:00 CEST
   to: 16 June, 17:00 CEST
   type: ''
