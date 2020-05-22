@@ -47,6 +47,7 @@ fields:
   type: boolean
   label: draft
 pages:
+- _trainings/beamvm.md
 - _trainings/distributed-live-tracing.md
 - _trainings/distributed-programming.md
 - _trainings/elixir-with-kubernetes.md
