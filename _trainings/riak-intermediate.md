@@ -12,7 +12,7 @@ from: 'June 22, 1PM '
 to: June 23, 5PM
 type: ''
 pic_url: ''
-published: false
+draft: false
 
 ---
 When resilience, scalability and reliability come to the forefront, few solutions do it as well as Riak. In this intermediate level course, we’ll share with you some of the more advanced Riak concepts, show you how to perform a rolling upgrade, replace nodes, and even how to switch backend. This course is ideal for people who are already familiar with Riak but wish to know more.
