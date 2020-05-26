@@ -1,4 +1,24 @@
 ---
+- from: ''
+  to: ''
+  type: ''
+  training_1: ''
+  training_1_url: ''
+  training_1_instructor: ''
+  training_1_instructor_2: ''
+  training_2: ''
+  training_2_url: ''
+  training_2_instructor: ''
+- from: 22 June, 1PM
+  to: 23 June, 5PM CEST
+  type: ''
+  training_1: Riak Intermediate Training
+  training_1_url: riak-intermediate
+  training_1_instructor: Nicholas Adams
+  training_1_instructor_2: ''
+  training_2: ''
+  training_2_url: ''
+  training_2_instructor: ''
 - from: 17 June, 10AM
   to: 17 June, 6PM CEST
   type: ''
