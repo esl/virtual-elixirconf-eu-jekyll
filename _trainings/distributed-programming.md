@@ -1,6 +1,6 @@
 ---
 speaker: ''
-trainer: Derek Kraan
+trainer: derek-kraan
 trainer-name: Derek Kraan
 event_date: ''
 venue: Online
