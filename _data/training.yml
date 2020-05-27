@@ -79,8 +79,8 @@
   training_2: ''
   training_2_url: ''
   training_2_instructor: ''
-- from: 22 June, 1PM
-  to: 23 June, 5PM CEST
+- from: 22 June - 23 June, 1PM
+  to: 5PM CEST
   type: ''
   training_1: Riak Intermediate Training
   training_1_url: riak-intermediate
