@@ -1,17 +1,18 @@
 ---
 speaker: ''
 trainer: Michał Ślaski
-trainer-name: michal-slaski
-event_date: June 17, 10:00-18:00 Central European Time
+trainer-name: Michał Ślaski
+event_date: June 17, 10AM-6PM Central European Time
 venue: Online
 summary: Everything you wanted to know about the BEAM but were afraid to ask - now
   ONLINE from the comfort of your home!
 description: ''
 experience: Intermediate
-from: 10AM (Central European time)
-to: '6PM '
+from: '10AM '
+to: 6PM (CEST)
 type: ''
 pic_url: ''
+draft: false
 
 ---
 Through examples and hands on exercises, we will showcase how to manage the BEAM VM in operational environments, optimizing for memory utilisation and performance when using Erlang or Elixir.
