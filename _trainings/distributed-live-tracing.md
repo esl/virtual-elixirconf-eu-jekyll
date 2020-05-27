@@ -14,10 +14,7 @@ trainer-name: Gabor Olah
 draft: false
 
 ---
-
-We will demonstrate how to use a unique feature of the Erlang VM: Tracing Erlang and Elixir programs in a distributed network.
-
-The course gives practical advice for tracing on a live system let it be a single node or a distributed cluster. We will discuss how tracing can complement logging and monitoring.
+We will demonstrate how to use a unique feature of the Erlang VM: Tracing Erlang and Elixir programs in a distributed network. The course gives practical advice for tracing on a live system let it be a single node or a distributed cluster. We will discuss how tracing can complement logging and monitoring.
 
 **Expertise:** Intermediate
 
