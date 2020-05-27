@@ -3,9 +3,9 @@ speaker: ''
 trainer: gabor-olah
 event_date: June 17, 10:00-14:00 Central European Summer Time
 venue: Online
-summary: 'We will demonstrate how to use a unique feature of the Erlang VM: Tracing
+summary: ''
+description: 'We will demonstrate how to use a unique feature of the Erlang VM: Tracing
   Erlang and Elixir programs in a distributed network.'
-description: ''
 experience: Intermediate
 from: June 17, 10AM CEST
 to: June 17, 14:00 CEST
