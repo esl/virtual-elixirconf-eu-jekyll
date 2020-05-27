@@ -27,7 +27,7 @@ draft: false
 
 * Understanding of the low level mechanism of tracing
 * Understanding of where tracing fits into the development flow
-* Understanding tracing in a single noe
+* Understanding tracing in a single node
 * Understanding tracing in a distributed cluster
 
 **Course Outline**
