@@ -60,7 +60,7 @@
   training_2_url: ''
   training_2_instructor: ''
 - from: 17 June, 10AM
-  to: 17 June, 2PM CEST
+  to: 2PM CEST
   type: ''
   training_1: Distributed Live Tracing
   training_1_url: distributed-live-tracing
