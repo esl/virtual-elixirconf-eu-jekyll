@@ -1,6 +1,6 @@
 ---
 speaker: ''
-trainer: Nicholas Adams
+trainer: nicholas-adams
 trainer-name: Nicholas Adams
 event_date: June 15-16, 1PM-5PM CEST
 venue: Online
