@@ -61,7 +61,7 @@
   training_2_instructor: ''
 - from: 17 June, 10AM
   to: 2PM CEST
-  type: ''
+  type: Tutorial
   training_1: Distributed Live Tracing
   training_1_url: distributed-live-tracing
   training_1_instructor: Gabor Olah
