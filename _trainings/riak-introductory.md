@@ -1,7 +1,7 @@
 ---
 speaker: ''
 trainer: Nicholas Adams
-trainer-name: nicholas-adams
+trainer-name: Nicholas Adams
 event_date: June 15-16, 9-13:00 CEST (Europe)
 venue: Online
 summary: In this introductory course, we’ll introduce you to basic Riak concepts.
