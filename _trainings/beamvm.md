@@ -12,7 +12,6 @@ from: 10AM (Central European time)
 to: '6PM '
 type: ''
 pic_url: ''
-published: false
 
 ---
 Through examples and hands on exercises, we will showcase how to manage the BEAM VM in operational environments, optimizing for memory utilisation and performance when using Erlang or Elixir.
