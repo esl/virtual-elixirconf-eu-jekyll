@@ -2,7 +2,7 @@
 speaker: ''
 trainer: nicholas-adams
 trainer-name: Nicholas Adams
-event_date: 'June 22 '
+event_date: June 22 - 23, 1PM-5PM CEST
 venue: Online
 summary: " In this intermediate level course, we’ll share with you some of the more
   advanced Riak concepts."
