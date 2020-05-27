@@ -1,30 +1,30 @@
 ---
-- from: ''
-  to: ''
+- from: 8 June - 10 June, 9AM
+  to: 5PM ART
   type: ''
-  training_1: ''
-  training_1_url: ''
-  training_1_instructor: ''
+  training_1: Elixir para Principiantes
+  training_1_url: elixir-para-principiantes
+  training_1_instructor: Manuel Rubio
   training_1_instructor_2: ''
   training_2: ''
   training_2_url: ''
   training_2_instructor: ''
-- from: 22 June, 1PM
-  to: 23 June, 5PM CEST
+- from: 15 June, 1PM
+  to: 16 June, 5PM CEST
   type: ''
-  training_1: Riak Intermediate Training
-  training_1_url: riak-intermediate
+  training_1: Riak Introductory Training
+  training_1_url: riak-introductory
   training_1_instructor: Nicholas Adams
   training_1_instructor_2: ''
   training_2: ''
   training_2_url: ''
   training_2_instructor: ''
-- from: 17 June, 10AM
-  to: 17 June, 6PM CEST
-  type: ''
-  training_1: The BEAM VM under the Hood
-  training_1_url: beamvm
-  training_1_instructor: Michał Ślaski
+- from: 15 June - 17 June, 9AM
+  to: 6PM CEST
+  type: training
+  training_1: Elixir Programming for Beginners
+  training_1_url: elixir-programming-for-beginners
+  training_1_instructor: Mikael Muszyński
   training_1_instructor_2: ''
   training_2: ''
   training_2_url: ''
@@ -39,12 +39,12 @@
   training_2: ''
   training_2_url: ''
   training_2_instructor: ''
-- from: 15 June, 1PM
-  to: 16 June, 5PM CEST
+- from: 17 June, 10AM
+  to: 17 June, 6PM CEST
   type: ''
-  training_1: Riak Introductory Training
-  training_1_url: riak-introductory
-  training_1_instructor: Nicholas Adams
+  training_1: The BEAM VM under the Hood
+  training_1_url: beamvm
+  training_1_instructor: Michał Ślaski
   training_1_instructor_2: ''
   training_2: ''
   training_2_url: ''
@@ -69,32 +69,22 @@
   training_2: ''
   training_2_url: ''
   training_2_instructor: ''
-- from: 8 June - 10 June, 9AM
-  to: 5PM ART
-  type: ''
-  training_1: Elixir para Principiantes
-  training_1_url: elixir-para-principiantes
-  training_1_instructor: Manuel Rubio
-  training_1_instructor_2: ''
-  training_2: ''
-  training_2_url: ''
-  training_2_instructor: ''
-- from: 15 June - 17 June, 9AM
-  to: 6PM CEST
-  type: training
-  training_1: Elixir Programming for Beginners
-  training_1_url: elixir-programming-for-beginners
-  training_1_instructor: Mikael Muszyński
-  training_1_instructor_2: ''
-  training_2: ''
-  training_2_url: ''
-  training_2_instructor: ''
 - from: 17 June, 3PM
   to: 7PM CEST
   type: training
   training_1: Programming Phoenix with LiveView
   training_1_url: programming-phoenix-with-liveview
   training_1_instructor: Bruce Tate
+  training_1_instructor_2: ''
+  training_2: ''
+  training_2_url: ''
+  training_2_instructor: ''
+- from: 22 June, 1PM
+  to: 23 June, 5PM CEST
+  type: ''
+  training_1: Riak Intermediate Training
+  training_1_url: riak-intermediate
+  training_1_instructor: Nicholas Adams
   training_1_instructor_2: ''
   training_2: ''
   training_2_url: ''
