@@ -1,7 +1,7 @@
 ---
 relevance: 2
 short_name: michal-slaski
-pic_url: ''
+pic_url: "/assets/images/slaski.jpg"
 firstname: Michał
 lastname: Ślaski
 position: Technical Lead @ Erlang Solutions
