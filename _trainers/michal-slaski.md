@@ -5,7 +5,7 @@ pic_url: ''
 firstname: Michał
 lastname: Ślaski
 position: Technical Lead @ Erlang Solutions
-training: the BEAM VM Under the Hood
+training: BEAM VM Under the Hood
 github: michalslaski
 twitter: ''
 
