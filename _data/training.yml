@@ -40,7 +40,7 @@
   training_2_url: ''
   training_2_instructor: ''
 - from: 17 June, 10AM
-  to: 17 June, 6PM CEST
+  to: 6PM CEST
   type: ''
   training_1: The BEAM VM under the Hood
   training_1_url: beamvm
