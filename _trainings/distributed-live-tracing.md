@@ -1,6 +1,6 @@
 ---
 speaker: ''
-trainer: Gabor Olah
+trainer: gabor-olah
 event_date: June 17, 10:00-14:00 Central European Summer Time
 venue: Online
 summary: 'We will demonstrate how to use a unique feature of the Erlang VM: Tracing
