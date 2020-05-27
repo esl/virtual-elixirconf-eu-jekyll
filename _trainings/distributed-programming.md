@@ -12,8 +12,6 @@ from: June 17, 9AM CEST (Europe)
 to: June 17, 6PM CEST (Europe)
 type: ''
 pic_url: ''
-draft: false
-published: false
 
 ---
 One of Elixir’s most talked-about features is the ability to write fault-tolerant distributed systems. In this tutorial, participants will explore the basics of distributed programming on the BEAM, led by Derek Kraan. We will discuss the limitations of distributed programming, and the pros and cons of various possible approaches to writing distributed systems. During this tutorial we will apply our newly acquired knowledge to some sample problems in Elixir. We will start with the basics of message passing between remote processes, global process registries, supervision strategies in distributed systems, approaches for distributing state, and how to deal with common issues like network partitions.
