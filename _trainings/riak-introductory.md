@@ -7,8 +7,8 @@ venue: Online
 summary: In this introductory course, we’ll introduce you to basic Riak concepts.
 description: ''
 experience: Beginner
-from: June 15, 13:00 CEST
-to: June 16, 17:00 CEST
+from: 1PM CEST
+to: 5PM CEST
 type: ''
 pic_url: ''
 draft: false
