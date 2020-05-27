@@ -12,11 +12,9 @@ from: June 8, 9:00 Argentina time
 to: June 10, 17:00 Argentina time
 type: ''
 pic_url: ''
-draft: false
 
 ---
 Programación en Elixir para Principiantes es un curso introductorio de 3 días presentando conceptos clave en Elixir. Los estudiantes comenzarán aprendiendo los puntos básicos del lenguaje Elixir. Incluye su herencia funcional, concurrencia y manejo de errores. El curso proporciona la mayoría de prerequisitos para atender al curso de OTP y un rango de cursos venideros que podrán ser usados para guiar a los desarrolladores a través de temas avanzados y enfocados en la arquitectura específica de BEAM y operaciones. Juntos, estos son ideales para quienes necesiten introducirse en Elixir y emplearlo en proyectos comerciales.
-
 
 **EXPERIENCIA**
 
@@ -24,7 +22,7 @@ Programación en Elixir para Principiantes es un curso introductorio de 3 días 
 
 **DURACIÓN DEL CURSO**
 
-* **3 días**
+* 3 días
 
 **A QUIÉN VA DIRIGIDO**
 
