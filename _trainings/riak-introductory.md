@@ -6,7 +6,7 @@ event_date: June 15-16, 9-13:00 CEST (Europe)
 venue: Online
 summary: In this introductory course, we’ll introduce you to basic Riak concepts.
 description: ''
-experience: ''
+experience: Beginner
 from: June 15, 13:00 CEST
 to: June 16, 17:00 CEST
 type: ''
@@ -15,10 +15,6 @@ draft: false
 
 ---
 When resilience, scalability and reliability come to the forefront, few solutions do it as well as Riak. In this introductory course, we’ll introduce you to basic Riak concepts, show you how to stand up a single node for development purposes, put together a production ready cluster and then replicate data to another cluster. This course is ideal for people who want to gain a basic footing in Riak.
-
-**EXPERTISE**
-
-* Basic/None
 
 **COURSE DURATION**
 
