@@ -1,6 +1,6 @@
 ---
 speaker: ''
-trainer: Michał Ślaski
+trainer: michal-slaski
 trainer-name: Michał Ślaski
 event_date: June 17, 10AM-6PM Central European Time
 venue: Online
