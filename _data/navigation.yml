@@ -1,7 +1,7 @@
 ---
 - name: Home
   link: cover
-- name: Call for Talks
+- name: About
   link: cft
 - name: Welcome
   link: welcome
