@@ -1,6 +1,6 @@
 ---
 speaker: ''
-trainer: Bryan Hunt
+trainer: bryan-hunt
 event_date: June 17, 10AM-6PM Central European time
 venue: Online
 summary: " In this one-day tutorial, you will learn to build, deploy, scale and cluster
