@@ -11,7 +11,7 @@ from: June 17, 10AM Central European time
 to: June 17, 2PM Central European time
 type: ''
 pic_url: ''
-trainer-name: ''
+trainer-name: Bryan Hunt
 draft: false
 
 ---
