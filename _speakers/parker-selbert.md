@@ -9,6 +9,7 @@ description: ''
 github: sorentwo
 twitter: sorentwo
 youtube: ''
+type: speaker
 
 ---
 Parker is a partner in Søren, a tiny husband and wife consultancy based outside of Chicago. He is an avid open source contributor with particular appreciation for expressiveness and elegance.
