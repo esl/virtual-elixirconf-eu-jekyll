@@ -1,7 +1,7 @@
 ---
 relevance: 4
 short_name: susumu-yamazaki
-pic_url: ''
+pic_url: "/assets/images/susumu-yamazaki.jpg"
 firstname: Susumu
 lastname: Yamazaki
 position: Co-creator of Pelemay, Associate Professor @ University of Kitakyushu
