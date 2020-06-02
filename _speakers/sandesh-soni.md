@@ -1,6 +1,6 @@
 ---
 relevance: 10
-short_name: sandesh.soni
+short_name: sandesh-soni
 pic_url: "/assets/images/sandesh-soni.jpg"
 firstname: Sandesh
 lastname: Soni
