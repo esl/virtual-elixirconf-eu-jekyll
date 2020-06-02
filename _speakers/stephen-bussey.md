@@ -5,10 +5,9 @@ pic_url: /assets/images/stephen-bussey.jpg
 firstname: Stephen
 lastname: Bussey
 position: Staff Software Architect @ SalesLoft
-description: ''
 github: sb8244
 twitter: yoooodaaaa
-youtube: ''
+youtube: 
 type: speaker
 
 ---

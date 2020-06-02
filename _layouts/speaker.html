@@ -27,19 +27,12 @@
                                 </a>
                             {% endif %}
                             
-                            
-                            
-                            {% if page.youtube %}
-
+                            {% if page.youtube and page.youtube contains '://' %}
                                 <iframe width="560" height="315" src="{{ page.youtube }}" 
                                         frameborder="0" 
                                         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
                                 </iframe>
-                            
-           
                             {% endif %}
-                            
-                            
                             
                             {% if page.twitter %}
                                 <a href="https://twitter.com/{{ page.twitter }}">

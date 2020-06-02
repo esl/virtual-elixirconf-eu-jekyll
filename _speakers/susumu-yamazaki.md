@@ -5,7 +5,6 @@ pic_url: /assets/images/susumu-yamazaki.jpg
 firstname: Susumu
 lastname: Yamazaki
 position: Co-creator of Pelemay, Associate Professor @ University of Kitakyushu
-description: ''
 github: zacky1972
 twitter: zacky1972
 youtube: ''
