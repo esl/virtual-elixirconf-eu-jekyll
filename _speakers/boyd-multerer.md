@@ -9,7 +9,6 @@ description: ''
 github: ''
 twitter: BoydMulterer
 youtube: ''
-published: false
 
 ---
 Boyd’s near 30-year career spans the range of software projects, from desktop publishing, to web servers, to game consoles, to low-level operating systems. For the past four years, he has been independently exploring and building a full stack for Connected Devices that heavily leverages the BEAM.  
