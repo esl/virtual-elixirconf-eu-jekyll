@@ -1,5 +1,5 @@
 ---
-talk: Oban - an Origin Story
+talk: Oban, an Origin Story
 audience: Intermediate
 speaker: parker-selbert
 speaker_name: Parker Selbert
