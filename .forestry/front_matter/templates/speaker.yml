@@ -43,3 +43,5 @@ fields:
     required: false
   label: youtube
   description: youtube video url
+pages:
+- _speakers/stephen-bussey.md
