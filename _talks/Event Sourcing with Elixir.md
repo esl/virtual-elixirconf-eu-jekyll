@@ -1,7 +1,7 @@
 ---
 speaker: peter-ullrich
 speaker_name: Peter Ullrich
-talk: Event sourcing with Elixir
+title: Event sourcing with Elixir
 audience: Intermediate
 published: false
 

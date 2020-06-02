@@ -1,7 +1,7 @@
 ---
 speaker: marlus-saraiva
 speaker_name: Marlus Saraiva
-talk: Introducing Surface - A new component-based library for Phoenix
+title: Introducing Surface - A new component-based library for Phoenix
 audience: Intermediate
 published: false
 

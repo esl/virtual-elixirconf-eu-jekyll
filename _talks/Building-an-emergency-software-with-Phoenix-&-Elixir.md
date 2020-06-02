@@ -2,7 +2,7 @@
 relevance: "4"
 speaker: sigu-magwa
 speaker_name: Sigu Magwa
-talk: Building an emergency software with Phoenix & Elixir
+title: Building an emergency software with Phoenix & Elixir
 audience: 
 published: false
 

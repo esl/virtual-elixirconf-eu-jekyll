@@ -1,7 +1,7 @@
 ---
 speaker: hans-josephsen
 speaker_name: Hans Elias Josephsen
-talk: Lumen
+title: Lumen
 audience: Beginner
 
 ---

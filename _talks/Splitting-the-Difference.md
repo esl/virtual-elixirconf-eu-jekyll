@@ -1,7 +1,7 @@
 ---
 speaker: zac-barnes
 speaker_name: Zac Barnes
-talk: Splitting the difference
+title: Splitting the difference
 audience: Intermediate
 published: false
 

@@ -1,7 +1,7 @@
 ---
 speaker: madhushree-singh
 speaker_name: Madhushree Singh
-talk: Building a minesweeper game from scratch
+title: Building a minesweeper game from scratch
 audience: Beginner
 published: false
 

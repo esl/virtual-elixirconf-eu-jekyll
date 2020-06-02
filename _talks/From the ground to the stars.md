@@ -1,7 +1,7 @@
 ---
 speaker: bruno-ripa
 speaker_name: Bruno Ripa
-talk: From the ground to the stars
+title: From the ground to the stars
 audience: Beginner
 published: false
 

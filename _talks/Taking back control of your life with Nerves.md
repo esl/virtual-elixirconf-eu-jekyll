@@ -1,7 +1,7 @@
 ---
 speaker: ju-liu
 speaker_name: Ju Liu
-talk: Taking back control of your life with Nerves
+title: Taking back control of your life with Nerves
 audience: Intermediate
 published: false
 

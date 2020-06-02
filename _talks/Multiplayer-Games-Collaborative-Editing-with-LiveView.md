@@ -1,7 +1,7 @@
 ---
 speaker: wiebe-marten-wijnja
 speaker_name: Wiebe-Marten Wijnja
-talk: Multiplayer games and collaborative editing with LiveView
+title: Multiplayer games and collaborative editing with LiveView
 audience: Beginner
 published: false
 

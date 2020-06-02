@@ -1,7 +1,7 @@
 ---
 speaker: susumu-yamazaki
 speaker_name: Susumu Yamazaki
-talk: Pelemay Updates
+title: Pelemay Updates
 audience: Proficient
 published: true
 

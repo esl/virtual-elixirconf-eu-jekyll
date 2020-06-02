@@ -1,7 +1,7 @@
 ---
 speaker: guilherme-de maio
 speaker_name: Guilherme de Maio
-talk: Crashing BEAM applications
+title: Crashing BEAM applications
 audience: Intermediate
 published: false
 

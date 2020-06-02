@@ -1,7 +1,7 @@
 ---
 speaker: daniel-vamosi
 speaker_name: Dániel Vámosi
-talk: Visual concurrency cookbook
+title: Visual concurrency cookbook
 audience: Intermediate
 published: false
 

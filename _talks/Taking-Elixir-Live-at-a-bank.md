@@ -1,7 +1,7 @@
 ---
 speaker: michal-olczak
 speaker_name: Michał Olczak
-talk: Taking Elixir live at a bank
+title: Taking Elixir live at a bank
 audience: Intermediate
 published: false
 

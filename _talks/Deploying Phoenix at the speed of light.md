@@ -1,7 +1,7 @@
 ---
 speaker: arjan-scherpenisse
 speaker_name: Arjan Scherpenisse
-talk: Deploying Phoenix at the speed of light
+title: Deploying Phoenix at the speed of light
 audience: Intermediate
 published: false
 

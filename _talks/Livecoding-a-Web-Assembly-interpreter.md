@@ -1,7 +1,7 @@
 ---
 speaker: tonci-galic
 speaker_name: Tonći Galić
-talk: Livecoding a WebAssembly interpreter
+title: Livecoding a WebAssembly interpreter
 audience: Intermediate
 published: false
 

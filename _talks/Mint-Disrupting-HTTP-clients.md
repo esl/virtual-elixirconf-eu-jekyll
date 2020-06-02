@@ -1,7 +1,7 @@
 ---
 speaker: andrea-leopardi
 speaker_name: Andrea Leopardi
-talk: Mint - Disrupting HTTP clients
+title: Mint - Disrupting HTTP clients
 audience: Intermediate
 published: false
 

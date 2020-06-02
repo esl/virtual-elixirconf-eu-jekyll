@@ -1,7 +1,7 @@
 ---
 speaker: ana maria-benites rodriguez
 speaker_name: Ana Maria Benites Rodriguez
-talk: If you want to master "Elixir", teach it!
+title: If you want to master "Elixir", teach it!
 audience: Beginner
 published: false
 
