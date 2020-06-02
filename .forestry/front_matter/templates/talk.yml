@@ -1,10 +1,10 @@
 ---
-label: talk
+label: title
 hide_body: false
 fields:
 - type: text
-  name: talk
-  label: talk
+  name: title
+  label: title
 - type: text
   name: audience
   label: audience
@@ -15,4 +15,3 @@ fields:
   name: speaker_name
   label: speaker_name
 pages:
-- _talks/Oban an Origin Story.md
