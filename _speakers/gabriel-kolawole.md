@@ -1,7 +1,7 @@
 ---
 relevance: 101
 short_name: gabriel-kolawole
-pic_url: gabriel-kolawole.jpg
+pic_url: /assets/images/gabriel-kolawole.jpg
 firstname: Gabriel
 lastname: Kolawole
 position: Software Developer Hub88.io

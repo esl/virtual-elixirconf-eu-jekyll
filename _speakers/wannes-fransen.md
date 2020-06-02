@@ -1,7 +1,7 @@
 ---
 relevance: 22
 short_name: wannes-fransen
-pic_url: wannes-fransen.jpg
+pic_url: /assets/images/wannes-fransen.jpg
 firstname: Wannes
 lastname: Fransen
 position: Researcher / Lecturer

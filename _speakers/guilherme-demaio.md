@@ -1,7 +1,7 @@
 ---
 relevance: 21
 short_name: guilherme-de maio
-pic_url: guilherme-de maio.jpg
+pic_url: /assets/images/guilherme-de maio.jpg
 firstname: Guilherme
 lastname: de Maio
 position: Software Engineer in love with Elixir/Erlang

@@ -1,7 +1,7 @@
 ---
 relevance: 15
 short_name: peter-ullrich
-pic_url: peter-ullrich.jpg
+pic_url: /assets/images/peter-ullrich.jpg
 firstname: Peter
 lastname: Ullrich
 position: Software Developer

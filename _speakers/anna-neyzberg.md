@@ -1,7 +1,7 @@
 ---
 relevance: 2
 short_name: anna-neyzberg
-pic_url: anna_neyzberg.jpg
+pic_url: /assets/images/anna_neyzberg.jpg
 firstname: Anna
 lastname: Neyzberg
 position: Co-founder of ElixirBridge

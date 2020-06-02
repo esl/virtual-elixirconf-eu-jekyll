@@ -1,7 +1,7 @@
 ---
 relevance: 4
 short_name: sigu-magwa
-pic_url: Sigu-magwa.jpg
+pic_url: /assets/images/Sigu-magwa.jpg
 firstname: Sigu
 lastname: Magwa
 position: A team builder, community builder, trainer and problem solver

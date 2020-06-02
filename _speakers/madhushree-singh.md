@@ -1,7 +1,7 @@
 ---
 relevance: 22
 short_name: madhushree-singh
-pic_url: madhushree-singh.jpg
+pic_url: /assets/images/madhushree-singh.jpg
 firstname: Madhushree
 lastname: Singh
 position: One World, One Life

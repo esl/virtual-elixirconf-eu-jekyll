@@ -1,7 +1,7 @@
 ---
 relevance: 3
 short_name: amos-king
-pic_url: amos_king.jpg
+pic_url: /assets/images/amos_king.jpg
 firstname: Amos
 lastname: King
 position: CEO at Binary Noggin, @TheErlef member, Co-Host of Elixir Outlaws

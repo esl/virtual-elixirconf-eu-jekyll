@@ -1,7 +1,7 @@
 ---
 relevance: 1
 short_name: jane-walerud
-pic_url: jane-walerud.jpg
+pic_url: /assets/images/jane-walerud.jpg
 firstname: Jane
 lastname: Walerud
 position: Persuaded Ericsson's Management to release Erlang open source

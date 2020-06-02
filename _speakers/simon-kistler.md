@@ -1,7 +1,7 @@
 ---
 relevance: 22
 short_name: simon-kistler
-pic_url: simon-kistler.jpg
+pic_url: /assets/images/simon-kistler.jpg
 firstname: Simon
 lastname: Kistler
 position: Software Engineer at VIU Eyewear

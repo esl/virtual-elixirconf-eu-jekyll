@@ -1,7 +1,7 @@
 ---
 relevance: 10
 short_name: sandesh.soni
-pic_url: sandesh-soni.jpg
+pic_url: /assets/images/sandesh-soni.jpg
 firstname: Sandesh
 lastname: Soni
 position:  Won 8th position in Phoenix Phrenzy competition 2019

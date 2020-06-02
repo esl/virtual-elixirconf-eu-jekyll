@@ -1,7 +1,7 @@
 ---
 relevance: 24
 short_name: lucjan-suski
-pic_url: lucjan-suski.jpg
+pic_url: /assets/images/lucjan-suski.jpg
 firstname: Lucjan
 lastname: Suski
 position: Co-founded a successful, bootstrapped SaaS product company which evolved

@@ -1,7 +1,7 @@
 ---
 relevance: 3
 short_name: lindaachieng-otieno
-pic_url: linda-otieno.jpg
+pic_url: /assets/images/linda-otieno.jpg
 firstname: Linda Achieng'
 lastname: Otieno
 position: 24/7 joker |> mom |> software developer

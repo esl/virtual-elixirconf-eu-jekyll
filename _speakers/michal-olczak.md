@@ -1,7 +1,7 @@
 ---
 relevance: 23
 short_name: michal-olczak
-pic_url: michal-olczak.jpg
+pic_url: /assets/images/michal-olczak.jpg
 firstname: Michał
 lastname: Olczak
 position: Working at a bank can be fun too!

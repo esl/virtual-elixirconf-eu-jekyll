@@ -1,7 +1,7 @@
 ---
 relevance: 22
 short_name: wiebe-marten-wijnja
-pic_url: wiebe-marten-wijnja.jpg
+pic_url: /assets/images/wiebe-marten-wijnja.jpg
 firstname: Wiebe-Marten
 lastname: Wijnja
 position: Maintainer of more than 20 Elixir libraries, Elixir Forum moderator

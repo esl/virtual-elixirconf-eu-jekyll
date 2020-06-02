@@ -1,7 +1,7 @@
 ---
 relevance: 22
 short_name: zac-barnes
-pic_url: zac-barnes.jpg
+pic_url: /assets/images/zac-barnes.jpg
 firstname: Zac
 lastname: Barnes
 position: Elixir Developer @ PepsiCo

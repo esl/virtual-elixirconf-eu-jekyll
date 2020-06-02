@@ -1,7 +1,7 @@
 ---
 relevance: 6
 short_name: tonci-galic
-pic_url: Tonci-Galic.jpg
+pic_url: /assets/images/Tonci-Galic.jpg
 firstname: Tonći
 lastname: Galić
 position: Making myself superfluous since my first job.

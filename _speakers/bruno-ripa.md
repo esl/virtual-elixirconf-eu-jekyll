@@ -1,7 +1,7 @@
 ---
 relevance: 22
 short_name: bruno-ripa
-pic_url: bruno-ripa.jpg
+pic_url: /assets/images/bruno-ripa.jpg
 firstname: Bruno
 lastname: Ripa
 position: Architect at Erlang Solutions

@@ -1,7 +1,7 @@
 ---
 relevance: 22
 short_name: arjan-scherpenisse
-pic_url: arjan-scherpenisse.jpg
+pic_url: /assets/images/arjan-scherpenisse.jpg
 firstname: Arjan
 lastname: Scherpenisse
 position: Founder at Botsquad; Elixir fanboy

@@ -1,7 +1,7 @@
 ---
 relevance: 13
 short_name: charlotte-deoliveira
-pic_url: charlotte-deoliveira.jpg
+pic_url: /assets/images/charlotte-deoliveira.jpg
 firstname: Charlotte Lorelei
 lastname: De Oliveira
 position: Net Idol

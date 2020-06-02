@@ -1,7 +1,7 @@
 ---
 relevance: 19
 short_name: thomas-orourke
-pic_url: thomas-orourke.jpg
+pic_url: /assets/images/thomas-orourke.jpg
 firstname: Thomas
 lastname: O'Rourke
 position: Organized the northernmost Elixir meetup in the world. Worked on Media Player

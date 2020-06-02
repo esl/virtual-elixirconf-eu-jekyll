@@ -1,7 +1,7 @@
 ---
 relevance: 14
 short_name: ju-liu
-pic_url: ju-lui.jpg
+pic_url: /assets/images/ju-lui.jpg
 firstname: Ju
 lastname: Liu
 position: Troublemaker

@@ -1,7 +1,7 @@
 ---
 relevance: 8
 short_name: marlus-saraiva
-pic_url: marlus-saraiva.jpg
+pic_url: /assets/images/marlus-saraiva.jpg
 firstname: Marlus
 lastname: Saraiva
 position: Creator of Broadway, Surface and ElixirSense

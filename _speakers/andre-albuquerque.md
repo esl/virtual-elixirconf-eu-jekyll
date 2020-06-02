@@ -1,7 +1,7 @@
 ---
 relevance: 102
 short_name: andre-albuquerque
-pic_url: andre-albuquerque.jpg
+pic_url: /assets/images/andre-albuquerque.jpg
 firstname: Andre
 lastname: Albuquerque
 position: Keyboard builder - author and Interceptor creator

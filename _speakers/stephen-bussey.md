@@ -1,7 +1,7 @@
 ---
 relevance: 5
 short_name: stephen-bussey
-pic_url: "stephen-bussey.jpg"
+pic_url: /assets/images/stephen-bussey.jpg
 firstname: Stephen
 lastname: Bussey
 position: Staff Software Architect @ SalesLoft

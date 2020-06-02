@@ -1,7 +1,7 @@
 ---
 relevance: 3
 short_name: chris-keathley
-pic_url: chris_keathley.jpg
+pic_url: /assets/images/chris_keathley.jpg
 firstname: Chris
 lastname: Keathley
 position: Dynamic Language Apologist, Senior Engineer @ Bleacher Report

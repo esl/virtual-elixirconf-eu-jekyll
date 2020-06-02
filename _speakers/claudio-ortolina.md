@@ -1,7 +1,7 @@
 ---
 relevance: 9
 short_name: claudio-ortolina
-pic_url: claudio-ortolina.jpg
+pic_url: /assets/images/claudio-ortolina.jpg
 firstname: Claudio
 lastname: Ortolina
 position: Building things and cooking food
