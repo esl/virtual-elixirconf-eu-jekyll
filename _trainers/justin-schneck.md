@@ -1,7 +1,7 @@
 ---
 relevance: 6
 short_name: justin-schneck
-pic_url: justin-schneck.jpg
+pic_url: /assets/images/justin-schneck.jpg
 firstname: Justin
 lastname: Schneck
 position: Co-Author of Nerves Project

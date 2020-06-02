@@ -1,7 +1,7 @@
 ---
 relevance: 5
 short_name: bruce-tate
-pic_url: Bruce_Tate.jpg
+pic_url: /assets/images/Bruce_Tate.jpg
 firstname: Bruce
 lastname: Tate
 position: Author, Editor, Founder of Groxio

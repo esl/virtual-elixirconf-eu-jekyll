@@ -1,7 +1,7 @@
 ---
 relevance: 2
 short_name: darin-wilson
-pic_url: darin_wilson.jpg
+pic_url: /assets/images/darin_wilson.jpg
 firstname: Darin
 lastname: Wilson
 position: Co-author of "Programming Ecto"

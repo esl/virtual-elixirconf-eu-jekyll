@@ -1,7 +1,7 @@
 ---
 relevance: 1
 short_name: wojtek-mach
-pic_url: wojtek.jpg
+pic_url: /assets/images/wojtek.jpg
 firstname: Wojtek
 lastname: Mach
 position: Developer at Dashbit and member of Ecto and Hex teams

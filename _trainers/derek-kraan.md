@@ -1,7 +1,7 @@
 ---
 relevance: 2
 short_name: derek-kraan
-pic_url: "derek-kraan.jpg"
+pic_url: "/assets/images/derek-kraan.jpg"
 firstname: Derek
 lastname: Kraan
 position: Author of Horde and DeltaCrdt
