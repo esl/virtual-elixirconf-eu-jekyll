@@ -4,7 +4,7 @@ short_name: justin-schneck
 pic_url: "/assets/images/justin-schneck-1.jpg"
 firstname: Justin
 lastname: Schneck
-position: "3"
+position: ''
 description: ''
 github: mobileoverlord
 twitter: mobileoverlord
