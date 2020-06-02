@@ -10,4 +10,4 @@ twitter: iamsandeshsoni
 type: speaker
 ---
 
-Sandesh is a BEAM enthusiast. He helps with Elixir meetups in India. He is building Society-kart, a group buying e-commerce platform. One of his goals for life is to plant and grow a minimum 100 trees.
+Sandesh is a BEAM enthusiast. He helps with Elixir meetups in India. He is building Society-kart, a group-buying e-commerce platform. One of his goals for life is to plant and grow a minimum of 100 trees.
