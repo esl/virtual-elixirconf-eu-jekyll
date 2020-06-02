@@ -43,6 +43,20 @@ fields:
     required: false
   label: youtube
   description: youtube video url
+- name: type
+  type: select
+  default: speaker
+  config:
+    required: true
+    options:
+    - keynote
+    - speaker
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: type
 pages:
 - _speakers/boyd-multerer.md
 - _speakers/justin-schneck.md
