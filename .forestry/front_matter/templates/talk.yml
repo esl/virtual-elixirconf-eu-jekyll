@@ -14,5 +14,3 @@ fields:
 - type: text
   name: speaker_name
   label: speaker_name
-pages:
-- _talks/Build Tetris with Elixir and Phoenix LiveView.md
