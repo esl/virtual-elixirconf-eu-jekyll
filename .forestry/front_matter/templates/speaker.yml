@@ -44,5 +44,6 @@ fields:
   label: youtube
   description: youtube video url
 pages:
+- _speakers/parker-selbert.md
 - _speakers/stephen-bussey.md
 - _speakers/susumu-yamazaki.md
