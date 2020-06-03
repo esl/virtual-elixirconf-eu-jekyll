@@ -17,3 +17,4 @@ fields:
 pages:
 - _talks/building-a-sustainable-codebase-with-fp.md
 - _talks/hardening-applications-with-property-tests.md
+- _talks/improving-developer-experience-with-livedashboard.md
