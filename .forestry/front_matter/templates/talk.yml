@@ -1,0 +1,16 @@
+---
+label: Talk
+hide_body: false
+fields:
+- type: text
+  name: speaker
+  label: speaker
+- type: text
+  name: speaker_name
+  label: speaker_name
+- type: text
+  name: title
+  label: title
+- type: text
+  name: audience
+  label: audience
