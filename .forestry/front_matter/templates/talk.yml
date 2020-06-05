@@ -14,3 +14,28 @@ fields:
 - type: text
   name: audience
   label: audience
+- name: speaker2
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: speakers
+      file: 
+      path: 
+  label: speaker 2
+  description: The second speaker
+- name: speaker3
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: speakers
+      file: 
+      path: 
+  label: speaker 3
