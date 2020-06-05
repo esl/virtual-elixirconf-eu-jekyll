@@ -32,6 +32,8 @@ sections:
   label: talks
   create: documents
   match: "**/*"
+  templates:
+  - talk
 - type: jekyll-pages
   label: Pages
   create: all
