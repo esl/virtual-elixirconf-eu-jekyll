@@ -2,18 +2,18 @@
 label: Talk
 hide_body: false
 fields:
-- type: text
-  name: speaker
+- name: speaker
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: speakers
+      file: _speakers/parker-selbert.md
+      path: 
   label: speaker
-- type: text
-  name: speaker_name
-  label: speaker_name
-- type: text
-  name: title
-  label: title
-- type: text
-  name: audience
-  label: audience
 - name: speaker2
   type: select
   default: []
@@ -39,3 +39,12 @@ fields:
       file: 
       path: 
   label: speaker 3
+- type: text
+  name: speaker_name
+  label: speaker_name
+- type: text
+  name: title
+  label: title
+- type: text
+  name: audience
+  label: audience
