@@ -29,7 +29,7 @@ sections:
   match: "**/*"
 - type: directory
   path: _talks
-  label: talks
+  label: Talks
   create: documents
   match: "**/*"
   templates:
