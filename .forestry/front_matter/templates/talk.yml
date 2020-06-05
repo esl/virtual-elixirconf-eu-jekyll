@@ -14,8 +14,3 @@ fields:
 - type: text
   name: speaker_name
   label: speaker_name
-pages:
-- _talks/building-a-sustainable-codebase-with-fp.md
-- _talks/got-a-technical-idea-how-to-build-a-company-from-there.md
-- _talks/hardening-applications-with-property-tests.md
-- _talks/improving-developer-experience-with-livedashboard.md
