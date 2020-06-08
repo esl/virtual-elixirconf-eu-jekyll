@@ -1,5 +1,6 @@
 ---
 speaker1: _speakers/michal-olczak.md
+speaker2: _speakers/thomas-orourke.md                                                                                                                 
 title: Taking Elixir live at a bank
 audience: Intermediate
 published: false
