@@ -1,7 +1,6 @@
 ---
 title: Hardening Applications with Property Tests
 audience: Intermediate
-speaker: _speakers/parker-selbert.md
 speaker1: _speakers/parker-selbert.md
 
 ---
