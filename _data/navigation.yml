@@ -1,4 +1,6 @@
 ---
+- name: Schedule
+  link: schedule
 - name: Home
   link: cover
 - name: About
