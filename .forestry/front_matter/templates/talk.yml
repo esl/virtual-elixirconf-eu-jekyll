@@ -48,3 +48,5 @@ fields:
 - type: text
   name: audience
   label: audience
+pages:
+- _talks/membrane-framework-the-true-story-of-handling-multimedia-in-elixir.md
