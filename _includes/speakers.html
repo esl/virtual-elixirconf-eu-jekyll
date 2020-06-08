@@ -22,15 +22,13 @@
                     </h4>
                 </a>
                 <p class="item-position">{{ speaker.position }}</p>
-                <!-- <p class="item-training">Talk:
-                    {{ speaker.talk }}</p> -->
-                {% assign filtered_talks = site.talks | where: 'speaker',
-      speaker.short_name %}
-                {% for talk in filtered_talks %}
-                    <a href="{{site.baseurl}}{{ talk.url }}">
-                        <p class="item-training">
-                            {{ talk.title }}</p>
-                    </a>
+                {% for talk in site.talks %}
+                    {% if talk.speaker1 == speaker.path or talk.speaker2 == speaker.path or talk.speaker3 == speaker.path %}
+                        <a href="{{site.baseurl}}{{ talk.url }}">
+                            <p class="item-training">
+                                {{ talk.title }}</p>
+                        </a>
+                    {% endif %}
                 {% endfor %}
                 <!-- filters by the first trainer -->
                 {% assign filtered_trainings = site.trainings | where: 'trainer',
