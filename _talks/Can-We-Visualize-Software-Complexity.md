@@ -1,6 +1,5 @@
 ---
-speaker: rafal-studnicki
-speaker_name: Rafał Studnicki
+speaker1: _speakers/rafal-studnicki.md
 title: Can we visualize software complexity?
 audience: Intermediate
 published: false

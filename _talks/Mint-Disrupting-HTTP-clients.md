@@ -1,6 +1,5 @@
 ---
-speaker: andrea-leopardi
-speaker_name: Andrea Leopardi
+speaker1: _speakers/andrea-leopardi.md
 title: Mint - Disrupting HTTP clients
 audience: Intermediate
 published: false

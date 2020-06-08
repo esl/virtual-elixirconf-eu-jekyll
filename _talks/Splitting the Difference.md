@@ -1,6 +1,5 @@
 ---
-speaker: andrew-selder
-speaker_name: Andrew Selder
+speaker1: _speakers/andrew-selder.md
 title: Splitting the difference
 audience: Intermediate
 published: false

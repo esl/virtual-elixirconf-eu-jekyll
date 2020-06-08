@@ -1,8 +1,7 @@
 ---
 title: Improving Developer Experience with LiveDashboard
 audience: Beginner
-speaker: michael-crumm
-speaker_name: Michael Crumm
+speaker1: _speakers/michael-crumm.md
 
 ---
 Phoenix provides peace of mind from prototype to production, but how can you ensure that peace of mind once you've deployed? Enter LiveDashboard.

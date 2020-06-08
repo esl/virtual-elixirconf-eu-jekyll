@@ -1,6 +1,5 @@
 ---
-speaker: bruno-ripa
-speaker_name: Bruno Ripa
+speaker1: _speakers/bruno-ripa.md
 title: From the ground to the stars
 audience: Beginner
 published: false

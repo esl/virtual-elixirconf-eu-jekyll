@@ -1,6 +1,5 @@
 ---
-speaker: sandesh-soni
-speaker_name: Sandesh Soni
+speaker1: _speakers/sandesh-soni.md
 title: Build Tetris with Elixir and Phoenix LiveView
 audience: Beginners
 

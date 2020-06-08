@@ -1,6 +1,5 @@
 ---
-speaker: _speakers/susumu-yamazaki.md
-speaker_name: Susumu Yamazaki
+speaker1: _speakers/susumu-yamazaki.md
 title: Pelemay Updates
 audience: Proficient
 

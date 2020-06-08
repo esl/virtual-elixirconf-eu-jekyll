@@ -1,6 +1,5 @@
 ---
-speaker: ana maria-benites rodriguez
-speaker_name: Ana Maria Benites Rodriguez
+speaker1: _speakers/anamaria-benitesrodriguez.md
 title: If you want to master "Elixir", teach it!
 audience: Beginner
 published: false

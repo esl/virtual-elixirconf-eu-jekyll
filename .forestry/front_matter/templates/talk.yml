@@ -2,7 +2,7 @@
 label: Talk
 hide_body: false
 fields:
-- name: speaker
+- name: speaker1
   type: select
   default: []
   config:
@@ -13,7 +13,7 @@ fields:
       section: speakers
       file: _speakers/parker-selbert.md
       path: 
-  label: speaker
+  label: speaker1
 - name: speaker2
   type: select
   default: []

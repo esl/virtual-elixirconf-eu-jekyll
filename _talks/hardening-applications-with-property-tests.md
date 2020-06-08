@@ -1,8 +1,7 @@
 ---
 title: Hardening Applications with Property Tests
 audience: Intermediate
-speaker: parker-selbert
-speaker_name: Parker Selbert
+speaker: _speakers/parker-selbert.md
 
 ---
 Property testing is a tool that every Elixir developer should have in their toolbox. Come learn how property tests can thoroughly test a problem space and make bulletproof software. We'll look at properties pulled from the Oban background job processor. Some examples we'll explore: 

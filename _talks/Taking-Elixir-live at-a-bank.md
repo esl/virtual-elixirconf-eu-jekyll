@@ -1,6 +1,5 @@
 ---
-speaker: thomas-orourke
-speaker_name: Thomas O'Rourke
+speaker1: _speakers/thomas-orourke.md
 title: Taking Elixir live at a bank
 audience: Intermediate
 published: false

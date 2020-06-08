@@ -1,6 +1,5 @@
 ---
-speaker: claudio-ortolina
-speaker_name: Claudio Ortolina
+speaker1: _speakers/claudio-ortolina.md
 title: The Perils of large files
 audience: Intermediate
 published: false

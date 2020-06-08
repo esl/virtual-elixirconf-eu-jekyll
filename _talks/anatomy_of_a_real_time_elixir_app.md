@@ -1,6 +1,5 @@
 ---
-speaker: stephen-bussey
-speaker_name: Stephen Bussey
+speaker1: _speakers/stephen-bussey.md
 title: Anatomy of a Real-Time Elixir App
 audience: Intermediate, Proficient
 published: true
