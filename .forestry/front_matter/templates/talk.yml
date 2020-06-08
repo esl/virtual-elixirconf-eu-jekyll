@@ -40,9 +40,6 @@ fields:
       path: 
   label: speaker 3
 - type: text
-  name: speaker_name
-  label: speaker_name
-- type: text
   name: title
   label: title
 - type: text
