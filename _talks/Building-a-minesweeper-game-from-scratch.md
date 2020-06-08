@@ -1,6 +1,5 @@
 ---
-speaker: madhushree-singh
-speaker_name: Madhushree Singh
+speaker1: _speakers/madhushree-singh.md
 title: Building a minesweeper game from scratch
 audience: Beginner
 published: false

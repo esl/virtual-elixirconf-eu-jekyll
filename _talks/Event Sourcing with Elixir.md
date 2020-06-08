@@ -1,6 +1,5 @@
 ---
-speaker: peter-ullrich
-speaker_name: Peter Ullrich
+speaker1: _speakers/peter-ullrich.md
 title: Event sourcing with Elixir
 audience: Intermediate
 published: false

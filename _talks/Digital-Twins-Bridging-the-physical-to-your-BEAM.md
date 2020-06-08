@@ -1,6 +1,5 @@
 ---
-speaker: wannes-fransen
-speaker_name: Wannes Fransen
+speaker1: _speakers/wannes-fransen.md
 title: Digital twins bridging the physical to your BEAM
 audience: Beginner
 published: false

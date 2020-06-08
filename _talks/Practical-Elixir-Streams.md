@@ -1,6 +1,5 @@
 ---
-speaker: evadne-wu
-speaker_name: Evadne Wu
+speaker1: _speakers/evadne-wu.md
 title: Practical Elixir streams
 audience: Intermediate
 published: false

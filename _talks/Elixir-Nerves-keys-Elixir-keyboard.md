@@ -1,6 +1,5 @@
 ---
-speaker: andre-albuquerque
-speaker_name: André Albuquerque
+speaker1: _speakers/andre-albuquerque.md
 title: Elixir + Nerves + keys = Elixir keyboard!
 audience: Beginner
 published: false

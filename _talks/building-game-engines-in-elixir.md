@@ -1,6 +1,5 @@
 ---
-speaker: gabriel-kolawole
-speaker_name: Gabriel Kolawole
+speaker1: _speakers/gabriel-kolawole.md
 title: Building game engines in Elixir
 audience: Intermediate
 published: false

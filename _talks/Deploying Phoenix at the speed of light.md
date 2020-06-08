@@ -1,6 +1,5 @@
 ---
-speaker: arjan-scherpenisse
-speaker_name: Arjan Scherpenisse
+speaker1: _speakers/arjan-scherpenisse.md
 title: Deploying Phoenix at the speed of light
 audience: Intermediate
 published: false

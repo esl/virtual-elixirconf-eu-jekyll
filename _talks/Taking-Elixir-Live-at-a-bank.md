@@ -1,6 +1,5 @@
 ---
-speaker: michal-olczak
-speaker_name: Michał Olczak
+speaker1: _speakers/michal-olczak.md
 title: Taking Elixir live at a bank
 audience: Intermediate
 published: false

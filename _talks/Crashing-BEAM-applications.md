@@ -1,6 +1,5 @@
 ---
-speaker: guilherme-de maio
-speaker_name: Guilherme de Maio
+speaker1: _speakers/guilherme-demaio.md
 title: Crashing BEAM applications
 audience: Intermediate
 published: false

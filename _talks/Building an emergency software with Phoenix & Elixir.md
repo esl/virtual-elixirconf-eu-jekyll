@@ -1,7 +1,6 @@
 ---
 relevance: "4"
-speaker: lindaachieng-otieno
-speaker_name: Sigu Magwa
+speaker1: _speakers/linda-otieno.md
 title: Building an emergency software with Phoenix & Elixir
 audience: 
 published: false

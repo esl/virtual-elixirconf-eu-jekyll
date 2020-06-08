@@ -1,6 +1,5 @@
 ---
-speaker: simon-kistler
-speaker_name: Simon Kistler
+speaker1: _speakers/simon-kistler.md
 title: From a monolith to productive umbrella app in ecommerce
 audience: Beginner
 published: false
