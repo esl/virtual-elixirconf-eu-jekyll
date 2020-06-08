@@ -2,7 +2,6 @@
 speaker1: _speakers/marcin-lewandowski.md
 speaker2: []
 speaker3: []
-speaker_name: Marcin Lewandowski
 title: Membrane Framework - the true story of handling multimedia in Elixir
 audience: Intermediate
 
