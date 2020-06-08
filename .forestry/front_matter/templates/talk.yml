@@ -11,7 +11,7 @@ fields:
     source:
       type: pages
       section: speakers
-      file: _speakers/parker-selbert.md
+      file: 
       path: 
   label: speaker1
 - name: speaker2
