@@ -47,5 +47,6 @@ fields:
   label: audience
 pages:
 - _talks/keynote-liveview.md
+- _talks/living-code-using-nerves-to-enhance-your-home.md
 - _talks/membrane-framework-the-true-story-of-handling-multimedia-in-elixir.md
 - _talks/outlaws-don-t-have-abstracts-podcast.md
