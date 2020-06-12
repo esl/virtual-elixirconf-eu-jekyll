@@ -13,6 +13,8 @@
   link: schedule
 - name: Register
   link: register
+- name: Attend
+  link: attend
 - name: Training
   link: training
 - name: Diversity
