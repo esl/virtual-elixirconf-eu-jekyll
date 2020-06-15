@@ -5,11 +5,11 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: _sass
-  label: _sass
-  create: documents
-  match: "**/*.sass"
-  new_doc_ext: sass
+  path: _layouts
+  label: layouts
+  create: all
+  match: "**/*.html"
+  new_doc_ext: ".html"
 - type: directory
   path: _trainers
   label: trainers
@@ -20,11 +20,6 @@ sections:
 - type: directory
   path: _data
   label: data
-  create: all
-  match: "**/*"
-- type: directory
-  path: ''
-  label: root
   create: all
   match: "**/*"
 - type: directory
