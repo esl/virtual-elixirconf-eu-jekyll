@@ -23,11 +23,6 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: ''
-  label: root
-  create: all
-  match: "**/*"
-- type: directory
   path: _talks
   label: Talks
   create: documents
