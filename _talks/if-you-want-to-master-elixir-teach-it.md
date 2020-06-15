@@ -1,8 +1,8 @@
 ---
 speaker1: _speakers/anamaria-benitesrodriguez.md
 title: If you want to master "Elixir", teach it!
-audienceer
 event_date: 28 April
+audience: Beginner
 from: 11.30 AM
 to: 12.30 PM
 published: false

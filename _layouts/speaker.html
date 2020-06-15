@@ -38,14 +38,12 @@
                             {% endif %}
                         </div>
                         <div class="speaker-desc">{{ page.content | markdownify }}</div>
-                        <!-- {% assign filtered_talks =  | where: 'speaker', page.short_name %} -->
-
                         {% for talk in site.talks %}
                             {% if talk.speaker1 == page.path or talk.speaker2 == page.path or talk.speaker3 == page.path %}
                                 <h4 class="speaker-training">Talk:
                                     <br>
-
-                                    <a href="{{site.baseurl}}/talks/{{ talk.path | remove: "_talks/" | split: "." | first }}">{{ talk.title }}</a>
+                                    {% assign corrected_path =  talk.path | remove: "_talks/" | split: "." | first %}
+                                    <a href="{{site.baseurl}}/talks/{{corrected_path}}">{{ talk.title }}</a>
                                 </h4>
                                 {% if page.type == "speaker" %}
                                     <p class="speaker-talk">
