@@ -46,6 +46,7 @@ fields:
   name: audience
   label: audience
 pages:
+- _talks/building-a-solar-powered-weather-station-with-nerves.md
 - _talks/keynote-liveview.md
 - _talks/living-code-using-nerves-to-enhance-your-home.md
 - _talks/membrane-framework-the-true-story-of-handling-multimedia-in-elixir.md
