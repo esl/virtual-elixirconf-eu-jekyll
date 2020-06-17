@@ -7,10 +7,9 @@ firstname: John
 lastname: Oxford
 position: Dad-gineer who loves to over complicate solutions
 description: ''
-github: ''
+github: joxford531
 twitter: ''
 youtube: ''
-published: false
 
 ---
 John Oxford is a Software Engineer at PowerSecure who lives in the Metro Atlanta region. In his spare time he works on Elixir, Nerves, and various IoT projects.
