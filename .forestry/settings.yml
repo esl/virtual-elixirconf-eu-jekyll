@@ -9,7 +9,7 @@ sections:
   label: layouts
   create: all
   match: "**/*.html"
-  new_doc_ext: ".html"
+  new_doc_ext: html
 - type: directory
   path: _trainers
   label: trainers
