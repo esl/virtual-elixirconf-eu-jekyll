@@ -33,7 +33,7 @@ sections:
   label: Pages
   create: all
 - type: jekyll-posts
-  label: Posts
+  label: Blog Posts
   create: all
   templates:
   - example
