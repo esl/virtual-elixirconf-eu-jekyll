@@ -2,6 +2,9 @@
 label: trainer
 hide_body: false
 fields:
+- type: text
+  name: training
+  label: training
 - type: number
   name: relevance
   label: relevance
@@ -20,9 +23,6 @@ fields:
 - type: text
   name: position
   label: position
-- type: text
-  name: training
-  label: training
 - type: text
   name: github
   label: github
