@@ -14,7 +14,7 @@ social:
 
 # google_site_verification: googleXXXXXXXXXXXXXXXX.html
 
-include: []
+include: [index.html]
 
 plugins:
   - jekyll-sitemap
