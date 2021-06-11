@@ -3,22 +3,22 @@
   link: cover
 - name: About
   link: cft
-- name: Welcome
-  link: welcome
+#- name: Welcome
+#  link: welcome
 - name: Speakers
   link: speakers
 - name: Trainers
   link: trainers
 - name: Schedule
   link: schedule
-- name: Register
-  link: register
-- name: Attend
-  link: attend
+#- name: Register
+#  link: register
+#- name: Attend
+#  link: attend
 - name: Training
   link: training
-- name: Diversity
-  link: diversity
+#- name: Diversity
+#  link: diversity
 - name: Sponsors
   link: sponsors
 - name: Contact
